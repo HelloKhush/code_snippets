@@ -1,0 +1,90 @@
+Aug 12 06:26:37 ip-10-5-90-175 CRON[32599]: pam_unix(cron:session): session closed for user root
+Aug 12 07:16:01 ip-10-5-90-175 CRON[23690]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 07:16:01 ip-10-5-90-175 CRON[23690]: pam_unix(cron:session): session closed for user root
+Aug 12 07:17:01 ip-10-5-90-175 CRON[24777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 07:17:01 ip-10-5-90-175 CRON[24777]: pam_unix(cron:session): session closed for user root
+Aug 12 08:17:01 ip-10-5-90-175 CRON[24664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 08:17:01 ip-10-5-90-175 CRON[24664]: pam_unix(cron:session): session closed for user root
+Aug 12 09:17:01 ip-10-5-90-175 CRON[24619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 09:17:01 ip-10-5-90-175 CRON[24619]: pam_unix(cron:session): session closed for user root
+Aug 12 10:17:01 ip-10-5-90-175 CRON[24600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 10:17:01 ip-10-5-90-175 CRON[24600]: pam_unix(cron:session): session closed for user root
+Aug 12 11:17:01 ip-10-5-90-175 CRON[24643]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 11:17:01 ip-10-5-90-175 CRON[24643]: pam_unix(cron:session): session closed for user root
+Aug 12 12:17:01 ip-10-5-90-175 CRON[24691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 12:17:01 ip-10-5-90-175 CRON[24691]: pam_unix(cron:session): session closed for user root
+Aug 12 13:17:01 ip-10-5-90-175 CRON[24701]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 13:17:01 ip-10-5-90-175 CRON[24701]: pam_unix(cron:session): session closed for user root
+Aug 12 14:17:01 ip-10-5-90-175 CRON[24800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 14:17:01 ip-10-5-90-175 CRON[24800]: pam_unix(cron:session): session closed for user root
+Aug 12 15:17:01 ip-10-5-90-175 CRON[24743]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 15:17:01 ip-10-5-90-175 CRON[24743]: pam_unix(cron:session): session closed for user root
+Aug 12 16:12:59 ip-10-5-90-175 sshd[20308]: Accepted publickey for ubuntu from 10.8.219.196 port 49428 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug 12 16:12:59 ip-10-5-90-175 sshd[20308]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Aug 12 16:12:59 ip-10-5-90-175 systemd-logind[976]: New session 15 of user ubuntu.
+Aug 12 16:17:01 ip-10-5-90-175 CRON[24885]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 12 16:17:01 ip-10-5-90-175 CRON[24885]: pam_unix(cron:session): session closed for user root
+Aug 12 16:26:01 ip-10-5-90-175 sshd[2310]: Accepted publickey for ubuntu from 10.8.220.72 port 59731 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug 12 16:26:01 ip-10-5-90-175 sshd[2310]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Aug 12 16:26:01 ip-10-5-90-175 systemd-logind[976]: New session 17 of user ubuntu.
+Aug 12 16:27:07 ip-10-5-90-175 sshd[2452]: Received disconnect from 10.8.220.72 port 59731:11: disconnected by user
+Aug 12 16:27:07 ip-10-5-90-175 sshd[2452]: Disconnected from user ubuntu 10.8.220.72 port 59731
+Aug 12 16:27:07 ip-10-5-90-175 sshd[2310]: pam_unix(sshd:session): session closed for user ubuntu
+Aug 12 16:27:07 ip-10-5-90-175 systemd-logind[976]: Removed session 17.
+Aug 12 16:27:14 ip-10-5-90-175 sshd[3767]: Accepted publickey for ubuntu from 10.8.220.72 port 59761 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug 12 16:27:14 ip-10-5-90-175 sshd[3767]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Aug 12 16:27:14 ip-10-5-90-175 systemd-logind[976]: New session 18 of user ubuntu.
+Aug 12 16:49:29 ip-10-5-90-175 sudo:   ubuntu : TTY=pts/4 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/nano /etc/resolv.conf
+Aug 12 16:49:29 ip-10-5-90-175 sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Aug 12 16:50:01 ip-10-5-90-175 sudo: pam_unix(sudo:session): session closed for user root
+Aug 12 16:50:21 ip-10-5-90-175 sshd[3888]: Received disconnect from 10.8.220.72 port 59761:11: disconnected by user
+Aug 12 16:50:21 ip-10-5-90-175 sshd[3888]: Disconnected from user ubuntu 10.8.220.72 port 59761
+Aug 12 16:50:21 ip-10-5-90-175 systemd-logind[976]: Removed session 18.
+Aug 12 16:50:21 ip-10-5-90-175 sshd[3767]: pam_unix(sshd:session): session closed for user ubuntu
+Aug 12 16:50:25 ip-10-5-90-175 sshd[28979]: Accepted publickey for ubuntu from 10.8.220.72 port 60306 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug 12 16:50:25 ip-10-5-90-175 sshd[28979]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Aug  3 06:26:11 ip-10-5-90-175 CRON[5351]: pam_unix(cron:session): session closed for user root
+Aug  3 07:16:01 ip-10-5-90-175 CRON[5661]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 07:16:01 ip-10-5-90-175 CRON[5661]: pam_unix(cron:session): session closed for user root
+Aug  3 07:17:01 ip-10-5-90-175 CRON[5666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 07:17:01 ip-10-5-90-175 CRON[5666]: pam_unix(cron:session): session closed for user root
+Aug  3 07:26:39 ip-10-5-90-175 sshd[5682]: Accepted publickey for ubuntu from 10.8.222.187 port 55506 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug  3 07:26:39 ip-10-5-90-175 sshd[5682]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Aug  3 07:26:39 ip-10-5-90-175 systemd-logind[896]: New session 16 of user ubuntu.
+Aug  3 08:17:01 ip-10-5-90-175 CRON[7184]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 08:17:01 ip-10-5-90-175 CRON[7184]: pam_unix(cron:session): session closed for user root
+Aug  3 09:17:01 ip-10-5-90-175 CRON[7422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 09:17:01 ip-10-5-90-175 CRON[7422]: pam_unix(cron:session): session closed for user root
+Aug  3 10:17:01 ip-10-5-90-175 CRON[7509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 10:17:01 ip-10-5-90-175 CRON[7509]: pam_unix(cron:session): session closed for user root
+Aug  3 11:17:01 ip-10-5-90-175 CRON[8559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 11:17:01 ip-10-5-90-175 CRON[8559]: pam_unix(cron:session): session closed for user root
+Aug  3 12:17:01 ip-10-5-90-175 CRON[8890]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 12:17:01 ip-10-5-90-175 CRON[8890]: pam_unix(cron:session): session closed for user root
+Aug  3 13:17:01 ip-10-5-90-175 CRON[11785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 13:17:01 ip-10-5-90-175 CRON[11785]: pam_unix(cron:session): session closed for user root
+Aug  3 13:40:45 ip-10-5-90-175 systemd-logind[896]: Power key pressed.
+Aug  3 13:40:45 ip-10-5-90-175 systemd-logind[896]: System is powering down.
+Aug  3 13:50:10 ip-10-5-90-175 systemd-logind[950]: New seat seat0.
+Aug  3 13:50:10 ip-10-5-90-175 systemd-logind[950]: Watching system buttons on /dev/input/event0 (Power Button)
+Aug  3 13:50:10 ip-10-5-90-175 systemd-logind[950]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Aug  3 13:50:10 ip-10-5-90-175 systemd-logind[950]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Aug  3 13:50:10 ip-10-5-90-175 sshd[1120]: Server listening on 0.0.0.0 port 22.
+Aug  3 13:50:10 ip-10-5-90-175 sshd[1120]: Server listening on :: port 22.
+Aug  3 13:56:02 ip-10-5-90-175 sshd[1684]: Accepted publickey for ubuntu from 10.8.222.187 port 55130 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug  3 13:56:02 ip-10-5-90-175 sshd[1684]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Aug  3 13:56:02 ip-10-5-90-175 systemd-logind[950]: New session 1 of user ubuntu.
+Aug  3 13:56:02 ip-10-5-90-175 systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Aug  3 14:17:01 ip-10-5-90-175 CRON[19665]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 14:17:01 ip-10-5-90-175 CRON[19665]: pam_unix(cron:session): session closed for user root
+Aug  3 14:29:53 ip-10-5-90-175 sshd[1881]: Accepted publickey for ubuntu from 10.8.222.187 port 59576 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug  3 14:29:53 ip-10-5-90-175 sshd[1881]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Aug  3 14:29:53 ip-10-5-90-175 systemd-logind[950]: New session 4 of user ubuntu.
+Aug  3 15:17:01 ip-10-5-90-175 CRON[22783]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 15:17:01 ip-10-5-90-175 CRON[22783]: pam_unix(cron:session): session closed for user root
+Aug  3 16:17:01 ip-10-5-90-175 CRON[25247]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 16:17:01 ip-10-5-90-175 CRON[25247]: pam_unix(cron:session): session closed for user root
+Aug  3 17:17:01 ip-10-5-90-175 CRON[28437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  3 17:17:01 ip-10-5-90-175 CRON[28437]: pam_unix(cron:session): session closed for user root
+Aug  3 17:40:42 ip-10-5-90-175 sshd[22825]: Accepted publickey for ubuntu from 10.8.222.187 port 50391 ssh2: RSA SHA256:nXu4uRCzT/tfV66FzVJX4Uk9Ui2dTt4luzEXw0iGa9E
+Aug  3 17:40:42 ip-10-5-90-175 sshd[22825]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
